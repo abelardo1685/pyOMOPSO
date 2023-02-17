@@ -1,0 +1,2 @@
+# pyOMOPSO-
+PyOMOPSO code parallelized
